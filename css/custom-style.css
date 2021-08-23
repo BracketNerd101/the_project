@@ -1,0 +1,19 @@
+body {
+
+    font-size: 16px;
+}
+
+
+.hero-mast {
+
+    /* The image used */
+  background-image: url("../img/tree-house-landing.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
